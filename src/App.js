@@ -1,5 +1,4 @@
-import React from 'react';
-
+import React from 'react'
 // import aos
 import Aos from 'aos';
 import 'aos/dist/aos.css';
@@ -16,7 +15,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 function App() {
   return (
-    <div className='overflow-hidden'>
+    <div className="overflow-hidden">
       <Hero />
     </div>
   );

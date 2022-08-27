@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to react-yoga-website 👋</h1>
+<h1 align="center">Welcome to Yoga website 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/chouaib\_boe" target="_blank">
@@ -6,10 +6,12 @@
   </a>
 </p>
 
+> a yoga website landing page fully responsive built with reactjs and tailwindcss
+
 ## Install
 
 ```sh
-npm install
+npm i
 ```
 
 ## Usage
